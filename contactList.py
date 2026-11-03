@@ -156,9 +156,9 @@ def findContactHandler(x, y):
     if name is None:
         return
 
-    # TODO: call findMatches(name)
+    # TODO: call findMatches(name)  store in a variable 
     # TODO: if there are no matches, display "No contacts found"
-    # TODO: otherwise, display each matching contact in a popup (use describe)
+    # TODO: otherwise, display each matching contact in a popup (use describe) and use a for loop
 
 
 def deleteContactHandler(x, y):
